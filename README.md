@@ -9,9 +9,9 @@ Refer the [PROBLEM.md](./PROBLEM.md) file for problem description.
 
 2. **CLONE** the forked repository, containing the boilerplate in your local machine
 
-3. Navigate to challenge-4-boilerplate folder
+3. Navigate to challenge-8-boilerplate folder
 
-    ` cd challenge-4-boilerplate`
+    ` cd challenge-8-boilerplate`
 
 4. Check the status of your repository
 
